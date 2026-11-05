@@ -1,1 +1,5 @@
-{}
+{
+  "attachmentFolderPath": "99_attachments",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute"
+}
