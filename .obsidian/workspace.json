@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_unit_1_introduction_to_reinforcement_learning/00_unit_1_overview_and_learning_goals.md",
+                "file": "04_unit_4_q_learning/01_q_learning_and_time_difference_learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_unit_1_overview_and_learning_goals"
+              "title": "01_q_learning_and_time_difference_learning"
             }
           }
         ]
@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "00_sources_local/001-2024-0328_DLMAIRIL01_Course_Book.pdf",
-                "page": 3,
-                "left": -40,
-                "top": 484,
-                "zoom": 0.3754563243249182
+                "page": 4,
+                "left": -16,
+                "top": 365,
+                "zoom": 0.9273015258494625
               },
               "icon": "lucide-file-text",
               "title": "001-2024-0328_DLMAIRIL01_Course_Book"
@@ -227,21 +227,22 @@
   },
   "active": "d3c40030f735e131",
   "lastOpenFiles": [
-    "00_sources_local/001-2024-0328_DLMAIRIL01_Course_Book.pdf",
+    "09_Task01/2nd Draft/AlphaGo_Task1_Research_Draft_v2.docx",
+    "09_Task01/2nd Draft",
+    "09_Task01/Neuer Ordner",
+    "09_Task01/1st Draft/Task_WrittenAssignment_DLMAIRIL01.pdf",
+    "09_Task01/1st Draft/AlphaGo_Task1_Review_and_Submission_Guide.docx",
+    "09_Task01/1st Draft/AlphaGo_Task1_Research_Draft.pdf",
+    "09_Task01/1st Draft/AlphaGo_Task1_Research_Draft.docx",
+    "09_Task01/1st Draft",
+    "09_Task01/Neuer Ordner/AlphaGo_Task1_Research_Draft.pdf",
+    "09_Task01/Neuer Ordner/AlphaGo_Task1_Research_Draft.docx",
+    "09_Task01/Neuer Ordner/Task_WrittenAssignment_DLMAIRIL01.pdf",
+    "01_unit_1_introduction_to_reinforcement_learning/00_unit_1_overview_and_learning_goals.md",
     "00_COURSE_COVERAGE_MAP.md",
     "README.md",
     "START_HERE.md",
     "01_unit_1_introduction_to_reinforcement_learning/01_understanding_reinforcement_learning.md",
-    "01_unit_1_introduction_to_reinforcement_learning/00_unit_1_overview_and_learning_goals.md",
-    "Welcome.md",
-    "Course Book/001-2024-0328_DLMAIRIL01_Course_Book.pdf",
-    "Course Book",
-    "ReinforcementLearning_Task01/iu official documents/Guideline for Avoiding Plagiarism.pdf",
-    "ReinforcementLearning_Task01/iu official documents/Task_WrittenAssignment_DLMAIRIL01.pdf",
-    "ReinforcementLearning_Task01/iu official documents/Guidelines Written Assignment.pdf",
-    "ReinforcementLearning_Task01/iu official documents/Zitierleitfaden_October_2026.pdf",
-    "ReinforcementLearning_Task01/iu official documents/Guidelines for structuring and formatting academic papers.pdf",
-    "ReinforcementLearning_Task01/iu official documents/A Step-by-Step Guide on How to Submit Work in Turnitin.pdf",
-    "ReinforcementLearning_Task01/iu official documents/Citation_Guideline.pdf"
+    "Welcome.md"
   ]
 }
