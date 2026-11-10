@@ -11,14 +11,16 @@
             "id": "d3c40030f735e131",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "04_unit_4_q_learning/01_q_learning_and_time_difference_learning.md",
-                "mode": "source",
-                "source": false
+                "file": "09_Task01/2nd Draft/AlphaGo_Task1_Research_Draft_v2.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 816,
+                "zoom": 0.927232412819996
               },
-              "icon": "lucide-file",
-              "title": "01_q_learning_and_time_difference_learning"
+              "icon": "lucide-file-text",
+              "title": "AlphaGo_Task1_Research_Draft_v2"
             }
           }
         ]
@@ -227,6 +229,9 @@
   },
   "active": "d3c40030f735e131",
   "lastOpenFiles": [
+    "04_unit_4_q_learning/01_q_learning_and_time_difference_learning.md",
+    "09_Task01/2nd Draft/AlphaGo_Task1_Research_Draft_v2.pdf",
+    "09_Task01/1st Draft/AlphaGo_Task1_Draft_Assessment.md",
     "09_Task01/2nd Draft/AlphaGo_Task1_Research_Draft_v2.docx",
     "09_Task01/2nd Draft",
     "09_Task01/Neuer Ordner",
@@ -236,8 +241,6 @@
     "09_Task01/1st Draft/AlphaGo_Task1_Research_Draft.docx",
     "09_Task01/1st Draft",
     "09_Task01/Neuer Ordner/AlphaGo_Task1_Research_Draft.pdf",
-    "09_Task01/Neuer Ordner/AlphaGo_Task1_Research_Draft.docx",
-    "09_Task01/Neuer Ordner/Task_WrittenAssignment_DLMAIRIL01.pdf",
     "01_unit_1_introduction_to_reinforcement_learning/00_unit_1_overview_and_learning_goals.md",
     "00_COURSE_COVERAGE_MAP.md",
     "README.md",
